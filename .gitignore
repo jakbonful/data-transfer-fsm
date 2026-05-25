@@ -1,9 +1,9 @@
 # =========================
 # ModelSim
 # =========================
-sim/modelsim/work/
-sim/modelsim/*.mpf
-sim/modelsim/*.wlf
+simulation/modelsim/work/
+simulation/modelsim/*.mpf
+simulation/modelsim/*.wlf
 *.vcd
 *.mti
 *.cr.*
